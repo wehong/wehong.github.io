@@ -96,7 +96,7 @@ author:
   name             : "wehong"
   avatar           : "/assets/img/wehong.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "somewhere"
   email            :
   links:
     - label: "Email"
